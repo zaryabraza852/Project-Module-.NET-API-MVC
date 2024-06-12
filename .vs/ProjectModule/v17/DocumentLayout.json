@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Saarz\\ProjectModule\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45BF31A1-F78F-44C5-8E63-2EE31BBA8360}|API\\API.csproj|e:\\saarz\\projectmodule\\api\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BF31A1-F78F-44C5-8E63-2EE31BBA8360}|API\\API.csproj|solutionrelative:api\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCDAD56-6CAE-4742-9D02-A6EE4B493FB0}|Core\\Core.csproj|e:\\saarz\\projectmodule\\core\\irepository\\imodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCDAD56-6CAE-4742-9D02-A6EE4B493FB0}|Core\\Core.csproj|solutionrelative:core\\irepository\\imodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6798E7-F955-4175-90CF-4F7554719EA5}|Infrastructure\\Infrastructure.csproj|e:\\saarz\\projectmodule\\infrastructure\\repository\\modulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6798E7-F955-4175-90CF-4F7554719EA5}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\modulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6798E7-F955-4175-90CF-4F7554719EA5}|Infrastructure\\Infrastructure.csproj|e:\\saarz\\projectmodule\\infrastructure\\service\\moduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6798E7-F955-4175-90CF-4F7554719EA5}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\service\\moduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModuleRepository.cs",
+              "DocumentMoniker": "E:\\Saarz\\ProjectModule\\Infrastructure\\Repository\\ModuleRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\ModuleRepository.cs",
+              "ToolTip": "E:\\Saarz\\ProjectModule\\Infrastructure\\Repository\\ModuleRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\ModuleRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAjwCgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:16:10.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IModuleRepository.cs",
+              "DocumentMoniker": "E:\\Saarz\\ProjectModule\\Core\\IRepository\\IModuleRepository.cs",
+              "RelativeDocumentMoniker": "Core\\IRepository\\IModuleRepository.cs",
+              "ToolTip": "E:\\Saarz\\ProjectModule\\Core\\IRepository\\IModuleRepository.cs",
+              "RelativeToolTip": "Core\\IRepository\\IModuleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:45:10.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModuleService.cs",
+              "DocumentMoniker": "E:\\Saarz\\ProjectModule\\Infrastructure\\Service\\ModuleService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Service\\ModuleService.cs",
+              "ToolTip": "E:\\Saarz\\ProjectModule\\Infrastructure\\Service\\ModuleService.cs",
+              "RelativeToolTip": "Infrastructure\\Service\\ModuleService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAE8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:42:39.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModuleController.cs",
+              "DocumentMoniker": "E:\\Saarz\\ProjectModule\\API\\Controllers\\ModuleController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ModuleController.cs",
+              "ToolTip": "E:\\Saarz\\ProjectModule\\API\\Controllers\\ModuleController.cs",
+              "RelativeToolTip": "API\\Controllers\\ModuleController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAADkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:14:30.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
